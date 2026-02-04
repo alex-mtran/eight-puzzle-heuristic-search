@@ -1,4 +1,4 @@
-﻿# AI8Puzzle
+﻿# Eight Puzzle Heuristic Search
 This is an AI project delving into three search algorithms on solving the 8 puzzle.
 
 What is the 8 puzzle?
@@ -19,3 +19,4 @@ Manhattan distance is calculated as: |x1 - x2| + |y1 - y2|.
 
 NOTE:
 f(n) = h(n) + g(n) <=> final score = heuristic estimate til goal state + cost of path thus far
+
